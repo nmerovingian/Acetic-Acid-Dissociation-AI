@@ -12,7 +12,7 @@ The experimental data for chronoamperometry described in paper at four concentra
 
 ## Machine Learning
 Machine learning program for the paper. **Please note that due to stochastic nature of neural networks and difference of hardware and operation system, your results may slighly vary from the authors. Generally less than 0.1 in log10 scale.**
-* *features.csv* Please note that due to the size limit of a tensorflow repository, we can not upload full training dataset from our simulation, but the features we extracted from our simulations. *ExtractFeatures.py* would be used for feature engineering. 
+* *features.csv* Please note that due to the size limit of a GitHub repository, we can not upload full training dataset from our simulation, but the features we extracted from our simulations. You are encouraged to use your own simulations to reproduce the results. *ExtractFeatures.py* would be used for feature engineering from simulation files. 
 * *Predict Constants.py* The tensorflow program to predict rate and equilibrium constants. It is first trained using features generated from simulations. 
 * *plot current surface.py* can plot the features: the steady state currents, generated from simulation, at different combination of rate and equilibrium constants. 
 * *EvaluateResults.py* evaluates the NN using the test data generated from training.
