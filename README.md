@@ -1,13 +1,13 @@
 # Acetic-Acid-Dissociation-AI
 ![Table of Content Figure](TOC.png)
-The code repository to for extracting thermal and kinetic rate constants of dissociation of acetic acid using a simulation and machine learning approach. This repository is for "Use of Artificial Intelligence in Electrode Reaction Mechanism Studies: Application to the Thermodynamics and Kinetics of the Dissociation of Acetic Acid in Aqueous Solution" submitted to *Analytical Chemistry*.
+The code repository to for extracting thermal and kinetic rate constants of dissociation of acetic acid using a simulation and machine learning approach. This repository is for "Experimental Voltammetry Analyzed Using Artificial Intelligence: Thermodynamics and Kinetics of the Dissociation of Acetic Acid in Aqueous Solution" submitted to *Analytical Chemistry*.
 
 # Experimental Data
 The experimental data for chronoamperometry described in paper at four concentrations of acetic acid (10 mM, 20mM, 40 mM and 100 mM). The steady state current is thus obtained and used as features for the AI.
 
 # PythonScripts 
 
-* **main.py** The main file to start simulation of acetic acid dissociation at different combination of rate and equilibrium constants. A total of 50,000 simulations were performed by the authors. It uses multiprocessing to speed us simulations. The more CPU cores, the faster!
+* **main.py** The main file to start simulation of acetic acid dissociation at different combination of rate and equilibrium constants. A total of 50,000 simulations were performed by the authors. It uses multiprocessing to speed us simulations. The more CPU cores, the faster! Simulations are supposed to be consistent in different computer platforms.
 * **simulation.py** Handy if you want start just one simulation.
 
 ## Machine Learning
@@ -23,13 +23,13 @@ Machine learning program for the paper. **Please note that due to stochastic nat
 
 
 ---
-You may cite the paper as acknowledgement to the authors if you found this helpful. 
+You may cite the paper as acknowledgement to the authors if you find this helpful. 
 
-Please cite: 
+Please cite: (unavailable yet)
 
-If you have any technical questions, please post them in the discussion forum of this repository.
+If you have any technical questions, please post them in the discussion forum of this repository. We will close monitor the discussion forum and respond to questions as fast as we can.
 
-For general enquiry, please email [Professor Richard Compton](mailto:richard.compton@chem.ox.ac.uk)
+For general enquiry, please email [Professor Richard Compton](mailto:richard.compton@chem.ox.ac.uk).
 
 
 
