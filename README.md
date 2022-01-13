@@ -25,9 +25,9 @@ Machine learning program for the paper. **Please note that due to stochastic nat
 ---
 You may cite the paper as acknowledgement to the authors if you find this helpful. 
 
-Please cite: (unavailable yet)
+Paper url: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c04054 
 
-If you have any technical questions, please post them in the discussion forum of this repository. We will close monitor the discussion forum and respond to questions as fast as we can.
+If you have any technical questions, please post them in the discussion forum of this repository. We will closely monitor the discussion forum and respond to questions as fast as we can.
 
 For general enquiry, please email [Professor Richard Compton](mailto:richard.compton@chem.ox.ac.uk).
 
