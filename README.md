@@ -3,7 +3,7 @@
 The code repository to for extracting thermal and kinetic rate constants of dissociation of acetic acid using a simulation and machine learning approach. This repository is for "Experimental Voltammetry Analyzed Using Artificial Intelligence: Thermodynamics and Kinetics of the Dissociation of Acetic Acid in Aqueous Solution" submitted to *Analytical Chemistry*.
 
 # Experimental Data
-The experimental data for chronoamperometry described in paper at four concentrations of acetic acid (10 mM, 20mM, 40 mM and 100 mM). The steady state current is thus obtained and used as features for the AI.
+The experimental data for chronoamperometry described in paper at four concentrations of acetic acid (10 mM, 20mM, 40 mM and 100 mM). The steady state currents are thus obtained and used as features for the AI.
 
 # PythonScripts 
 
