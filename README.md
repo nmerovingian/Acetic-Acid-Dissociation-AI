@@ -25,7 +25,7 @@ Machine learning program for the paper. **Please note that due to stochastic nat
 ---
 You may cite the paper as acknowledgement to the authors if you find this helpful. 
 
-Paper url: (not available yet)
+Paper url: [Link](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.2c00110)
 
 If you have any technical questions, please post them in the discussion forum of this repository. We will closely monitor the discussion forum and respond to questions as fast as we can.
 
